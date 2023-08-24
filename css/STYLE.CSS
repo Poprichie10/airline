@@ -86,7 +86,7 @@
 
 }
 .wesolve{
-  background-image: url(image/plane1.jpg);
+  background-image: url(/image/plane1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -175,7 +175,7 @@
 
 .column{
   float: left;
-  width: 25%;
+  width: 100%;
   margin-bottom: 16px;
   margin-top: 16px;
   padding: 0.8px;
@@ -221,7 +221,7 @@ padding: 0 16px;
 .buttons{
   border: none;
   outline: 0;
-  display: inline-;
+  display: inline-block;
   padding: 10px;
   color: white;
   background-color: blue;
