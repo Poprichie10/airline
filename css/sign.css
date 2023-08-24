@@ -1,0 +1,208 @@
+body{
+    background-image: url(ng.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 99%;
+    height: 950px;
+}
+
+.form1{
+    margin: auto;
+    width: 50%;
+    padding: 15px;
+    background-image: url(/image/ng.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 130%;
+    box-shadow: 20px 20px 20px 20px 20px rgba(0, 0, 0, 0.9);
+}
+.name1{
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 15px 0;
+    display: inline-block;
+    background-color: whitesmoke;
+}
+
+.form1font{
+    font-size: 20px;
+    color: rgb(255, 72, 0);
+}
+* {box-sizing: border-box}
+
+
+.container {
+  padding: 16px;
+}
+
+
+input[type=text], input[type=password],   input[type=name], input[type=email], input[type=number] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+hr {
+  border: 1px solid gold;
+  margin-bottom: 20px;
+}
+
+
+.registerbtn {
+  background-color: teal;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+
+a {
+  color: dodgerblue;
+}
+
+
+.signin {
+  background-color: red;
+  text-align: center;
+}
+.login{
+  display: block;
+  background-color: aqua;
+  color: violet;
+  width: 100%;
+  height: 100px;
+}
+.button{
+  padding: 30px;
+  color: grey;
+  background-color: red;
+  justify-content: center;
+  font-size: 20px;
+  text-decoration: none;
+  border: 4px solid blue;
+  border-radius: 3px;
+  cursor: pointer;
+  font-family: tahoma;
+  margin-left: 20%;
+}
+
+.button a{
+  text-decoration: none;
+}
+
+.button1{
+  padding: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 29px;
+  padding-right: 29px;
+  color: grey;
+  background-color: red;
+  justify-content: center;
+  font-size: 20px;
+  text-decoration: none;
+  border: 4px solid blue;
+  border-radius: 3px;
+  cursor: pointer;
+  font-family: tahoma;
+  margin-left: 40%;
+}
+
+
+.agree{
+  color: wheat;
+  margin-left: 28%;
+  font-size: 15px;
+}
+
+
+.rules1{
+  margin-left: 10%;
+  color: blue;
+  font-family: tahoma;
+  font-size: 20px;
+}
+
+
+.rules1 a{
+  text-decoration: none;
+}
+
+.mie{
+  background-color: thistle;
+width: 100%;
+height: auto;
+font-size: 26px;
+font-family: arail;
+}
+.rils{
+  margin-left:30% ;
+  color: red;
+  font-size: 30px;
+}
+
+
+.service{
+
+  width: 100%;
+text-align: justify;
+font-size: 23px;
+}
+
+
+
+.page{
+  margin-left:18%;
+  color: gold;
+  font-size: 46px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.About{
+  width: 100%;
+  height: 80vh;
+}
+
+
+.About{
+
+  width: 100%;
+text-align: justify;
+font-size: 23px;
+}
+
+
+.page{
+  margin-left:12%;
+  color: gold;
+  font-size: 46px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.fordetail{
+background-color: blue;
+width: 100%;
+height: 40vh;
+}
