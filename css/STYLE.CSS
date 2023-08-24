@@ -251,3 +251,8 @@ padding: 0 16px;
   width: 100%;
   height: 46vh;
 }
+
+.teamss{
+  display: flex;
+  flex-direction: row;
+}
