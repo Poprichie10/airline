@@ -171,29 +171,17 @@ font-size: 23px;
 
 
 .page{
-  margin-left:18%;
-  color: gold;
-  font-size: 46px;
-  font-family: Arial, Helvetica, sans-serif;
+background-color: blue;
+color: black;
+font-size: 23px;
+
+
+.AboutPAGE{
+  background-color: red;
+  color: white;
+  font-size: 24px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
-
-.About{
-  width: 100%;
-  height: 150vh;
-}
-
-
-.About{
-
-  width: 100%;
-text-align: justify;
-font-size: 25px;
-color: gray;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-background-color: aqua;
-}
-
 
 .page{
   margin-left:12%;
@@ -220,6 +208,12 @@ height: 40vh;
   border-radius: 4px;
 }
 
+
+.aboutsectiontop{
+  justify-content: center;
+  font-size: xx-large;
+  font-weight: bold;
+}
 
 .popup{
   width: 400px;
@@ -262,14 +256,8 @@ height: 40vh;
   top: 50%;
   transform: translate(-50%, -50%); scale:(1);
 }
-.contacts{
-  background-color: red;
-  color: white;
-  font-size: 23px;
-  font-family: 'Times New Roman', Times, serif;
-}
-allmycontact{
-  width: 100%;
-  font-size: 25px;
-  font-family: 'Times New Roman', Times, serif;
+.contpage{
+  background-color: gold;
+  font-size: 28px;
+  color: black;
 }
